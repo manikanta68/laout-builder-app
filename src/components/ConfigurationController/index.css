@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.input-items-list {
+  display: flex;
+  flex-direction: column;
+  list-style-type: none;
+  padding: 0px;
+}
+
+.label {
+  margin-left: 5px;
+}
+
+.nav-items {
+  margin-bottom: 10px;
+}
+.nav-container {
+  background-color: #475569;
+  color: White;
+  padding-left: 5%;
+  padding-top: 8px;
+}
